@@ -1,3 +1,7 @@
 python-dotenv
 pandas
 numpy
+pymongo
+certifi
+
+# -e . it will create all packaage in file
