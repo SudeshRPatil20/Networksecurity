@@ -3,5 +3,6 @@ pandas
 numpy
 pymongo
 certifi
+pymongo==3.6
 
 # -e . it will create all packaage in file
