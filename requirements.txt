@@ -3,6 +3,6 @@ pandas
 numpy
 pymongo
 certifi
-pymongo==3.6
-
+pymongo[srv]==3.6
+scikit-learn
 # -e . it will create all packaage in file
