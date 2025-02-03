@@ -6,5 +6,6 @@ certifi
 pymongo[srv]
 scikit-learn
 dill
+mlflow
 pyaml
 # -e . it will create all packaage in file
